@@ -1,0 +1,11 @@
+email: loueed@pm.me
+fullname: 'Louis Dickinson'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$/DwO6jtaVqz/Ecpl1pVne.PX7Rr6GksagBGnqJmNBak91U992vT12
